@@ -75,3 +75,6 @@ body{
 p{
     font-family: 'Roboto', sans-serif;
 }
+p{
+    margin: 6px;
+}
